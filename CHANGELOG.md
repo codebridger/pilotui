@@ -1,3 +1,5 @@
+## [1.29.1](https://github.com/codebridger/pilotui/compare/v1.29.0...v1.29.1) (2026-07-19)
+
 # [1.29.0](https://github.com/codebridger/pilotui/compare/v1.28.1...v1.29.0) (2026-03-04)
 
 
