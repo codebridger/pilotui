@@ -1,3 +1,5 @@
+## [1.29.1-dev.1](https://github.com/codebridger/pilotui/compare/v1.29.0...v1.29.1-dev.1) (2026-07-19)
+
 # [1.29.0-dev.1](https://github.com/codebridger/lib-vue-components/compare/v1.28.1...v1.29.0-dev.1) (2026-03-04)
 
 
