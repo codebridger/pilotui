@@ -1,278 +1,278 @@
-# [1.29.0](https://github.com/codebridger/lib-vue-components/compare/v1.28.1...v1.29.0) (2026-03-04)
+# [1.29.0](https://github.com/codebridger/pilotui/compare/v1.28.1...v1.29.0) (2026-03-04)
 
 
 ### Bug Fixes
 
-* modernization of readme and metadata ([c943183](https://github.com/codebridger/lib-vue-components/commit/c943183fa9b59e306083ea99f538cc7a15175a57))
+* modernization of readme and metadata ([c943183](https://github.com/codebridger/pilotui/commit/c943183fa9b59e306083ea99f538cc7a15175a57))
 
 
 ### Features
 
-* Enhance documentation generation with improved Puppeteer stability, 'Show code' button handling, and structured LLM-friendly output including a header, instructions, and TOC. ([f894c51](https://github.com/codebridger/lib-vue-components/commit/f894c519615e955487a0c19d2183562ffc57fbd8))
-* Register and mock Popper and PerfectScrollbar for testing, adjust Vitest function coverage, and enhance Storybook CI startup reliability. ([51bdbcd](https://github.com/codebridger/lib-vue-components/commit/51bdbcdba6134e22386578f1f2679b8c33c8a60b))
+* Enhance documentation generation with improved Puppeteer stability, 'Show code' button handling, and structured LLM-friendly output including a header, instructions, and TOC. ([f894c51](https://github.com/codebridger/pilotui/commit/f894c519615e955487a0c19d2183562ffc57fbd8))
+* Register and mock Popper and PerfectScrollbar for testing, adjust Vitest function coverage, and enhance Storybook CI startup reliability. ([51bdbcd](https://github.com/codebridger/pilotui/commit/51bdbcdba6134e22386578f1f2679b8c33c8a60b))
 
-## [1.28.1](https://github.com/codebridger/lib-vue-components/compare/v1.28.0...v1.28.1) (2025-11-16)
+## [1.28.1](https://github.com/codebridger/pilotui/compare/v1.28.0...v1.28.1) (2025-11-16)
 
 
 ### Bug Fixes
 
-* **Select:** Change v-show to v-if for improved rendering logic ([d0fb03e](https://github.com/codebridger/lib-vue-components/commit/d0fb03ef1685033f197918f99e06387a1573139e))
+* **Select:** Change v-show to v-if for improved rendering logic ([d0fb03e](https://github.com/codebridger/pilotui/commit/d0fb03ef1685033f197918f99e06387a1573139e))
 
-# [1.28.0](https://github.com/codebridger/lib-vue-components/compare/v1.27.0...v1.28.0) (2025-11-16)
+# [1.28.0](https://github.com/codebridger/pilotui/compare/v1.27.0...v1.28.0) (2025-11-16)
 
 
 ### Features
 
-* Add custom selected display slot to Select component ([79d98b7](https://github.com/codebridger/lib-vue-components/commit/79d98b7f55d44c269130d7d3a576f9e3600c2cc0))
+* Add custom selected display slot to Select component ([79d98b7](https://github.com/codebridger/pilotui/commit/79d98b7f55d44c269130d7d3a576f9e3600c2cc0))
 
-# [1.27.0](https://github.com/codebridger/lib-vue-components/compare/v1.26.0...v1.27.0) (2025-09-09)
+# [1.27.0](https://github.com/codebridger/pilotui/compare/v1.26.0...v1.27.0) (2025-09-09)
 
 
 ### Bug Fixes
 
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Improve error handling and styling in InputGroup and related components ([4df36d0](https://github.com/codebridger/lib-vue-components/commit/4df36d014f7aee577c32406daf84e25370b8536c))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Update Button accessibility test and add InputGroup tests ([49a570a](https://github.com/codebridger/lib-vue-components/commit/49a570a351777c9165fa9ef4b0fda272b2e23331))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Improve error handling and styling in InputGroup and related components ([4df36d0](https://github.com/codebridger/pilotui/commit/4df36d014f7aee577c32406daf84e25370b8536c))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Update Button accessibility test and add InputGroup tests ([49a570a](https://github.com/codebridger/pilotui/commit/49a570a351777c9165fa9ef4b0fda272b2e23331))
 
 
 ### Features
 
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj  Enhance InputGroup and related components for improved styling and functionality ([40ee215](https://github.com/codebridger/lib-vue-components/commit/40ee215e904beacb2fdc36dafd74b624aeb398b7))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Add InputGroup component with Storybook documentation ([41ccd32](https://github.com/codebridger/lib-vue-components/commit/41ccd326aeed2fbce0cb58853d21ffc66385d470))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Enhance Button and Input components for InputGroup consistency ([dcb6d69](https://github.com/codebridger/lib-vue-components/commit/dcb6d69bf9234ea3f92b7869939eab80306eb91c))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Enhance Button and InputGroup integration with new button styling ([abff417](https://github.com/codebridger/lib-vue-components/commit/abff417b5f4491ace084eda7e72780878c8fc1da))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Enhance Input and TextArea components for InputGroup integration ([dc90f6f](https://github.com/codebridger/lib-vue-components/commit/dc90f6f4e01c6726cebb7cbf55ddab3254278d57))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Enhance InputGroup and related components for improved styling and consistency ([0593109](https://github.com/codebridger/lib-vue-components/commit/05931096a7e87de5c55193328b741c9d911289d5))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Enhance InputGroup and related components with focus management and border styling ([8029f74](https://github.com/codebridger/lib-vue-components/commit/8029f742c8499c60c82d19b2203436edb160f79c))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgj Refactor InputGroup and Button components for improved styling and consistency ([dab9956](https://github.com/codebridger/lib-vue-components/commit/dab9956eecf59ab2b365e57b88e9e08d58d8e2e3))
-* Add badge label support to IconButton component ([5084bce](https://github.com/codebridger/lib-vue-components/commit/5084bce5f7048beacbc1efee050864467b958155))
-* Enhance Button component with focus styling and loading state handling ([9023937](https://github.com/codebridger/lib-vue-components/commit/9023937a494c30f5ee9f1f8ca89ecbc6913176ad))
-* Update Component Development Guidelines to include InputGroup integration requirements ([e50d144](https://github.com/codebridger/lib-vue-components/commit/e50d1448e4c1fce202c21af2732629e68c67a276))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj  Enhance InputGroup and related components for improved styling and functionality ([40ee215](https://github.com/codebridger/pilotui/commit/40ee215e904beacb2fdc36dafd74b624aeb398b7))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Add InputGroup component with Storybook documentation ([41ccd32](https://github.com/codebridger/pilotui/commit/41ccd326aeed2fbce0cb58853d21ffc66385d470))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Enhance Button and Input components for InputGroup consistency ([dcb6d69](https://github.com/codebridger/pilotui/commit/dcb6d69bf9234ea3f92b7869939eab80306eb91c))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Enhance Button and InputGroup integration with new button styling ([abff417](https://github.com/codebridger/pilotui/commit/abff417b5f4491ace084eda7e72780878c8fc1da))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Enhance Input and TextArea components for InputGroup integration ([dc90f6f](https://github.com/codebridger/pilotui/commit/dc90f6f4e01c6726cebb7cbf55ddab3254278d57))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Enhance InputGroup and related components for improved styling and consistency ([0593109](https://github.com/codebridger/pilotui/commit/05931096a7e87de5c55193328b741c9d911289d5))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Enhance InputGroup and related components with focus management and border styling ([8029f74](https://github.com/codebridger/pilotui/commit/8029f742c8499c60c82d19b2203436edb160f79c))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgj Refactor InputGroup and Button components for improved styling and consistency ([dab9956](https://github.com/codebridger/pilotui/commit/dab9956eecf59ab2b365e57b88e9e08d58d8e2e3))
+* Add badge label support to IconButton component ([5084bce](https://github.com/codebridger/pilotui/commit/5084bce5f7048beacbc1efee050864467b958155))
+* Enhance Button component with focus styling and loading state handling ([9023937](https://github.com/codebridger/pilotui/commit/9023937a494c30f5ee9f1f8ca89ecbc6913176ad))
+* Update Component Development Guidelines to include InputGroup integration requirements ([e50d144](https://github.com/codebridger/pilotui/commit/e50d1448e4c1fce202c21af2732629e68c67a276))
 
-# [1.26.0](https://github.com/codebridger/lib-vue-components/compare/v1.25.0...v1.26.0) (2025-08-31)
+# [1.26.0](https://github.com/codebridger/pilotui/compare/v1.25.0...v1.26.0) (2025-08-31)
 
 
 ### Bug Fixes
 
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgw Update Select component snapshots to reflect changes in dropdown styling ([4c25aa6](https://github.com/codebridger/lib-vue-components/commit/4c25aa67576bd1d742f0f9c651c0e304736f10ed))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgw Update Select component snapshots to reflect changes in dropdown styling ([4c25aa6](https://github.com/codebridger/pilotui/commit/4c25aa67576bd1d742f0f9c651c0e304736f10ed))
 
 
 ### Features
 
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgw  Add Confirmation Mode to Select component for improved user experience ([136ff6b](https://github.com/codebridger/lib-vue-components/commit/136ff6b0ffa85934f5b00ce4cdd5ba3415b8a31e))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgw Add form component to package.json and vite.config.ts ([b12b68c](https://github.com/codebridger/lib-vue-components/commit/b12b68c152d973f621cef3b3fce3cc2999635bc4))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgw Add Select component with comprehensive Storybook documentation ([02e0195](https://github.com/codebridger/lib-vue-components/commit/02e0195b12ecf2ed97297ee2d3707fef86d264c9))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgw Implement custom mode for Select component with enhanced slot functionality ([24a7105](https://github.com/codebridger/lib-vue-components/commit/24a710560e4b90a7053811dfcb387be6a557123b))
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)eunvbgw Update component imports and remove unused CheckboxInput and SwitchBall components ([8f37d8c](https://github.com/codebridger/lib-vue-components/commit/8f37d8c89e8dd79fac498687fbc4bb57e7fd3ac2))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgw  Add Confirmation Mode to Select component for improved user experience ([136ff6b](https://github.com/codebridger/pilotui/commit/136ff6b0ffa85934f5b00ce4cdd5ba3415b8a31e))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgw Add form component to package.json and vite.config.ts ([b12b68c](https://github.com/codebridger/pilotui/commit/b12b68c152d973f621cef3b3fce3cc2999635bc4))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgw Add Select component with comprehensive Storybook documentation ([02e0195](https://github.com/codebridger/pilotui/commit/02e0195b12ecf2ed97297ee2d3707fef86d264c9))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgw Implement custom mode for Select component with enhanced slot functionality ([24a7105](https://github.com/codebridger/pilotui/commit/24a710560e4b90a7053811dfcb387be6a557123b))
+* [#86](https://github.com/codebridger/pilotui/issues/86)eunvbgw Update component imports and remove unused CheckboxInput and SwitchBall components ([8f37d8c](https://github.com/codebridger/pilotui/commit/8f37d8c89e8dd79fac498687fbc4bb57e7fd3ac2))
 
-# [1.25.0](https://github.com/codebridger/lib-vue-components/compare/v1.24.0...v1.25.0) (2025-08-26)
-
-
-### Features
-
-* Enhance Storybook server management and health checks ([5079f22](https://github.com/codebridger/lib-vue-components/commit/5079f228c3154954e91eb6fba2d0d245b5dc172b))
-
-# [1.24.0](https://github.com/codebridger/lib-vue-components/compare/v1.23.0...v1.24.0) (2025-08-26)
+# [1.25.0](https://github.com/codebridger/pilotui/compare/v1.24.0...v1.25.0) (2025-08-26)
 
 
 ### Features
 
-* Add detailed documentation for various components in Storybook ([3581e09](https://github.com/codebridger/lib-vue-components/commit/3581e097a526224ca49ad6c85077e077801db3a4))
-* Add semantic release configuration for automated versioning and changelog generation ([3195606](https://github.com/codebridger/lib-vue-components/commit/3195606c497457e0c2544c10b9957090a1ed6c00))
-* Enhance IconButton component with badge mode and associated documentation ([c773bad](https://github.com/codebridger/lib-vue-components/commit/c773bad47d163d1d2b6e9fba0cf9a7940a6c2d89))
-* Introduce chip mode in Button component with enhanced functionality and documentation ([9d5effd](https://github.com/codebridger/lib-vue-components/commit/9d5effd3284012e5ba81ea8f7cc3edaf06b846fd))
+* Enhance Storybook server management and health checks ([5079f22](https://github.com/codebridger/pilotui/commit/5079f228c3154954e91eb6fba2d0d245b5dc172b))
 
-# [1.19.0](https://github.com/codebridger/lib-vue-components/compare/v1.18.0...v1.19.0) (2025-06-28)
+# [1.24.0](https://github.com/codebridger/pilotui/compare/v1.23.0...v1.24.0) (2025-08-26)
+
+
+### Features
+
+* Add detailed documentation for various components in Storybook ([3581e09](https://github.com/codebridger/pilotui/commit/3581e097a526224ca49ad6c85077e077801db3a4))
+* Add semantic release configuration for automated versioning and changelog generation ([3195606](https://github.com/codebridger/pilotui/commit/3195606c497457e0c2544c10b9957090a1ed6c00))
+* Enhance IconButton component with badge mode and associated documentation ([c773bad](https://github.com/codebridger/pilotui/commit/c773bad47d163d1d2b6e9fba0cf9a7940a6c2d89))
+* Introduce chip mode in Button component with enhanced functionality and documentation ([9d5effd](https://github.com/codebridger/pilotui/commit/9d5effd3284012e5ba81ea8f7cc3edaf06b846fd))
+
+# [1.19.0](https://github.com/codebridger/pilotui/compare/v1.18.0...v1.19.0) (2025-06-28)
 
 
 ### Bug Fixes
 
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)etkf4vv update loading icon container styles for better alignment in Button component ([cd8be65](https://github.com/codebridger/lib-vue-components/commit/cd8be65a9fe7ce4e921a5a6c9c283303200ec9bd)), closes [#86etkf4](https://github.com/codebridger/lib-vue-components/issues/86etkf4)
+* [#86](https://github.com/codebridger/pilotui/issues/86)etkf4vv update loading icon container styles for better alignment in Button component ([cd8be65](https://github.com/codebridger/pilotui/commit/cd8be65a9fe7ce4e921a5a6c9c283303200ec9bd)), closes [#86etkf4](https://github.com/codebridger/pilotui/issues/86etkf4)
 
 
 ### Features
 
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)etkf376 - improve icon positioning descriptions and add comparison stories for Input and TextArea components ([382b9a7](https://github.com/codebridger/lib-vue-components/commit/382b9a72512ba4102dd05f8a0f639be88feedcf8)), closes [#86etkf376](https://github.com/codebridger/lib-vue-components/issues/86etkf376)
-* [#86](https://github.com/codebridger/lib-vue-components/issues/86)etkf376 update Input and TextArea components to define emitted events for better documentation and type safety ([62e3ee6](https://github.com/codebridger/lib-vue-components/commit/62e3ee67271c288db7f0e49478baea16975a2380)), closes [#86etkf376](https://github.com/codebridger/lib-vue-components/issues/86etkf376)
+* [#86](https://github.com/codebridger/pilotui/issues/86)etkf376 - improve icon positioning descriptions and add comparison stories for Input and TextArea components ([382b9a7](https://github.com/codebridger/pilotui/commit/382b9a72512ba4102dd05f8a0f639be88feedcf8)), closes [#86etkf376](https://github.com/codebridger/pilotui/issues/86etkf376)
+* [#86](https://github.com/codebridger/pilotui/issues/86)etkf376 update Input and TextArea components to define emitted events for better documentation and type safety ([62e3ee6](https://github.com/codebridger/pilotui/commit/62e3ee67271c288db7f0e49478baea16975a2380)), closes [#86etkf376](https://github.com/codebridger/pilotui/issues/86etkf376)
 
-# [1.18.0](https://github.com/codebridger/lib-vue-components/compare/v1.17.0...v1.18.0) (2025-05-25)
-
-
-### Features
-
-* enhance Modal stories with new features and customization options ([793e6f2](https://github.com/codebridger/lib-vue-components/commit/793e6f27626be3b9491c71e413167554c7e0cf0b))
-
-# [1.17.0-dev.20](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.19...dev-1.17.0-dev.20) (2025-05-25)
+# [1.18.0](https://github.com/codebridger/pilotui/compare/v1.17.0...v1.18.0) (2025-05-25)
 
 
 ### Features
 
-* enhance Modal stories with new features and customization options ([793e6f2](https://github.com/codebridger/lib-vue-components/commit/793e6f27626be3b9491c71e413167554c7e0cf0b))
+* enhance Modal stories with new features and customization options ([793e6f2](https://github.com/codebridger/pilotui/commit/793e6f27626be3b9491c71e413167554c7e0cf0b))
 
-# [1.17.0-dev.19](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.18...dev-1.17.0-dev.19) (2025-05-24)
-
-# [1.17.0-dev.18](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.17...dev-1.17.0-dev.18) (2025-05-19)
+# [1.17.0-dev.20](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.19...dev-1.17.0-dev.20) (2025-05-25)
 
 
 ### Features
 
-* **Progress:** add color prop and update size and rounded options; enhance Storybook examples to showcase new features and improve documentation. ([b5059f8](https://github.com/codebridger/lib-vue-components/commit/b5059f815c5dc1f0fde0c0574574adb58cf8b8a1))
-* **Progress:** enhance progress bar component with new features including striped and animated options, label display, and automatic color changes based on progress value; update Storybook stories to demonstrate new functionalities. ([5f53c91](https://github.com/codebridger/lib-vue-components/commit/5f53c91c9ff7583fcf3b4c016d57009ac9cf7fe3))
+* enhance Modal stories with new features and customization options ([793e6f2](https://github.com/codebridger/pilotui/commit/793e6f27626be3b9491c71e413167554c7e0cf0b))
 
-# [1.17.0-dev.17](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.16...dev-1.17.0-dev.17) (2025-04-04)
+# [1.17.0-dev.19](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.18...dev-1.17.0-dev.19) (2025-05-24)
+
+# [1.17.0-dev.18](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.17...dev-1.17.0-dev.18) (2025-05-19)
+
+
+### Features
+
+* **Progress:** add color prop and update size and rounded options; enhance Storybook examples to showcase new features and improve documentation. ([b5059f8](https://github.com/codebridger/pilotui/commit/b5059f815c5dc1f0fde0c0574574adb58cf8b8a1))
+* **Progress:** enhance progress bar component with new features including striped and animated options, label display, and automatic color changes based on progress value; update Storybook stories to demonstrate new functionalities. ([5f53c91](https://github.com/codebridger/pilotui/commit/5f53c91c9ff7583fcf3b4c016d57009ac9cf7fe3))
+
+# [1.17.0-dev.17](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.16...dev-1.17.0-dev.17) (2025-04-04)
 
 
 ### Bug Fixes
 
-* **FileInputCombo:** [#86](https://github.com/codebridger/lib-vue-components/issues/86)erv8ke2 update upload button visibility to prevent interaction during uploading state; enhance user experience by ensuring proper status checks ([be0cf62](https://github.com/codebridger/lib-vue-components/commit/be0cf6245bc15ae7eb26f2c8d0a3939074d00ff2)), closes [#86erv8ke2](https://github.com/codebridger/lib-vue-components/issues/86erv8ke2)
+* **FileInputCombo:** [#86](https://github.com/codebridger/pilotui/issues/86)erv8ke2 update upload button visibility to prevent interaction during uploading state; enhance user experience by ensuring proper status checks ([be0cf62](https://github.com/codebridger/pilotui/commit/be0cf6245bc15ae7eb26f2c8d0a3939074d00ff2)), closes [#86erv8ke2](https://github.com/codebridger/pilotui/issues/86erv8ke2)
 
 
 ### Features
 
-* **FileInputCombo:** [#86](https://github.com/codebridger/lib-vue-components/issues/86)erv8ke2 enhance file upload component with toast notifications for events, improve file handling with unique IDs, and update Storybook stories to demonstrate new features ([f96a06b](https://github.com/codebridger/lib-vue-components/commit/f96a06b82ff99fdae023563845ab86b3265fea40)), closes [#86erv8ke2](https://github.com/codebridger/lib-vue-components/issues/86erv8ke2)
-* **FileInputCombo:** [#86](https://github.com/codebridger/lib-vue-components/issues/86)erv8ke2 enhance file upload functionality with progress tracking and error simulation; update Storybook stories to demonstrate new features and usage scenarios ([e0769b0](https://github.com/codebridger/lib-vue-components/commit/e0769b086af757e4baf50b89e05963f1f4b4d8e4)), closes [#86erv8ke2](https://github.com/codebridger/lib-vue-components/issues/86erv8ke2)
-* **FileInputCombo:** [#86](https://github.com/codebridger/lib-vue-components/issues/86)erv8ke2 enhance file upload handling with comprehensive status tracking and error management; update UI to reflect upload progress and status ([488c810](https://github.com/codebridger/lib-vue-components/commit/488c8102a2d8a94a946f1d2feccb4ef2771e60fd)), closes [#86erv8ke2](https://github.com/codebridger/lib-vue-components/issues/86erv8ke2)
-* **FileInputCombo:** [#86](https://github.com/codebridger/lib-vue-components/issues/86)erv8ke2 refactor file preview and upload status display using slots for better customization; enhance UI structure and maintainability ([ed3561d](https://github.com/codebridger/lib-vue-components/commit/ed3561d925488cb5acd33416205fbd3452a45041)), closes [#86erv8ke2](https://github.com/codebridger/lib-vue-components/issues/86erv8ke2)
+* **FileInputCombo:** [#86](https://github.com/codebridger/pilotui/issues/86)erv8ke2 enhance file upload component with toast notifications for events, improve file handling with unique IDs, and update Storybook stories to demonstrate new features ([f96a06b](https://github.com/codebridger/pilotui/commit/f96a06b82ff99fdae023563845ab86b3265fea40)), closes [#86erv8ke2](https://github.com/codebridger/pilotui/issues/86erv8ke2)
+* **FileInputCombo:** [#86](https://github.com/codebridger/pilotui/issues/86)erv8ke2 enhance file upload functionality with progress tracking and error simulation; update Storybook stories to demonstrate new features and usage scenarios ([e0769b0](https://github.com/codebridger/pilotui/commit/e0769b086af757e4baf50b89e05963f1f4b4d8e4)), closes [#86erv8ke2](https://github.com/codebridger/pilotui/issues/86erv8ke2)
+* **FileInputCombo:** [#86](https://github.com/codebridger/pilotui/issues/86)erv8ke2 enhance file upload handling with comprehensive status tracking and error management; update UI to reflect upload progress and status ([488c810](https://github.com/codebridger/pilotui/commit/488c8102a2d8a94a946f1d2feccb4ef2771e60fd)), closes [#86erv8ke2](https://github.com/codebridger/pilotui/issues/86erv8ke2)
+* **FileInputCombo:** [#86](https://github.com/codebridger/pilotui/issues/86)erv8ke2 refactor file preview and upload status display using slots for better customization; enhance UI structure and maintainability ([ed3561d](https://github.com/codebridger/pilotui/commit/ed3561d925488cb5acd33416205fbd3452a45041)), closes [#86erv8ke2](https://github.com/codebridger/pilotui/issues/86erv8ke2)
 
-# [1.17.0-dev.16](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.15...dev-1.17.0-dev.16) (2025-04-04)
+# [1.17.0-dev.16](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.15...dev-1.17.0-dev.16) (2025-04-04)
 
 
 ### Bug Fixes
 
-* **dropfile:** add storybook stories for DropFile component with various upload scenarios ([67852c6](https://github.com/codebridger/lib-vue-components/commit/67852c62bea34e2e409311f988d921931977a973))
-* **dropfile:** enhance DropFile component with new upload features and mock upload support ([1ac3342](https://github.com/codebridger/lib-vue-components/commit/1ac3342f2e13fe486ad11dc59ef1efbe40094742))
-* **FileInputButton:** rename FileInput component to FileInputButton component ([17e4984](https://github.com/codebridger/lib-vue-components/commit/17e4984170fe59501b2dc0eca656ef44769610d6))
-* **FileInputDropMode:** rename InputFileDropMode component to FileInputDropMode component ([db308f8](https://github.com/codebridger/lib-vue-components/commit/db308f81d818256e3d9a72d29c8505a33b6a680e))
-* **InputFileDragMode:** enhance file input handling by creating a temporary input element for file selection and adding duplicate file check ([42ebc47](https://github.com/codebridger/lib-vue-components/commit/42ebc47a5dd2f4f4ffbe2df9b05b933110b6e0cc))
-* **InputFileDragMode:** update upload button visibility and progress display based on autoUpload prop ([25fefc8](https://github.com/codebridger/lib-vue-components/commit/25fefc8a962a4934eb2c984f9d5879db4873ab80))
-* **SwitchBall:** adjust positioning and styling for RTL support; enhance label and sublabel alignment ([c342dd7](https://github.com/codebridger/lib-vue-components/commit/c342dd785c49ac84805be945ac0e286986099f1f))
+* **dropfile:** add storybook stories for DropFile component with various upload scenarios ([67852c6](https://github.com/codebridger/pilotui/commit/67852c62bea34e2e409311f988d921931977a973))
+* **dropfile:** enhance DropFile component with new upload features and mock upload support ([1ac3342](https://github.com/codebridger/pilotui/commit/1ac3342f2e13fe486ad11dc59ef1efbe40094742))
+* **FileInputButton:** rename FileInput component to FileInputButton component ([17e4984](https://github.com/codebridger/pilotui/commit/17e4984170fe59501b2dc0eca656ef44769610d6))
+* **FileInputDropMode:** rename InputFileDropMode component to FileInputDropMode component ([db308f8](https://github.com/codebridger/pilotui/commit/db308f81d818256e3d9a72d29c8505a33b6a680e))
+* **InputFileDragMode:** enhance file input handling by creating a temporary input element for file selection and adding duplicate file check ([42ebc47](https://github.com/codebridger/pilotui/commit/42ebc47a5dd2f4f4ffbe2df9b05b933110b6e0cc))
+* **InputFileDragMode:** update upload button visibility and progress display based on autoUpload prop ([25fefc8](https://github.com/codebridger/pilotui/commit/25fefc8a962a4934eb2c984f9d5879db4873ab80))
+* **SwitchBall:** adjust positioning and styling for RTL support; enhance label and sublabel alignment ([c342dd7](https://github.com/codebridger/pilotui/commit/c342dd785c49ac84805be945ac0e286986099f1f))
 
 
 ### Features
 
-* **dropfile:** add DropFile component for file uploads with drag-and-drop support ([bc4f947](https://github.com/codebridger/lib-vue-components/commit/bc4f9470d5125f05bd5b50ff2f9321e86b6e1a21))
-* **dropfile:** integrate DropFile component into main export and update stories with simplified props ([b0f4537](https://github.com/codebridger/lib-vue-components/commit/b0f453729eaeb3a86326e8114c5c3e5a67a9b6c9))
-* **file-input:** introduce InputFileHeadless component with file selection and preview functionality, along with Storybook stories for various use cases ([9aaf8f4](https://github.com/codebridger/lib-vue-components/commit/9aaf8f47c67f39cca2bf0ab460fc87486ee14c41))
-* **FileInputCombo:** add filesStatus computed property to track file upload progress and status; update upload-area slot to include filesStatus ([b5328c5](https://github.com/codebridger/lib-vue-components/commit/b5328c51b5e07c584908433acd823807202409f5))
-* **FileInputCombo:** introduce FileInputCombo component with drag-and-drop and click-to-upload functionality; includes comprehensive props for customization and Storybook stories for various use cases ([a4e51af](https://github.com/codebridger/lib-vue-components/commit/a4e51afc2b6a6f7380125cdeea66431170e1dbf0))
-* **fullscreen-dropfile:** add FullscreenDropfile component with drag-and-drop functionality and Storybook stories ([2d4aa92](https://github.com/codebridger/lib-vue-components/commit/2d4aa9286e01c4c266d5fd353abbe7238737ca05))
-* **icon:** add new arrow and cloud upload icons ([967ebde](https://github.com/codebridger/lib-vue-components/commit/967ebde3405d005a045327a05b5c8165fe107f81))
-* **input-drag-file:** introduce InputDragFile component with drag-and-drop functionality and Storybook stories ([6f87e2b](https://github.com/codebridger/lib-vue-components/commit/6f87e2bf1df437af2dd92b1059650fda56017b0a))
-* **input-file-drop-mode:** introduce InputFileDropMode component for fullscreen drag-and-drop file uploads; add associated Storybook stories for customization options ([18c7e3b](https://github.com/codebridger/lib-vue-components/commit/18c7e3b4793bc8c1f08ffff4e525c88df45c67f6))
-* **input-file-headless:** enhance InputFileHeadless component with new props for file acceptance, capture, and filtering; update documentation and add new Storybook stories for image preview and file type filtering ([933c3e7](https://github.com/codebridger/lib-vue-components/commit/933c3e75accf4b85b432266d84b3f9166ecfb068))
-* **InputFileDragMode:** add InputFileDragMode component for drag-and-drop file uploads; include Storybook stories for various use cases and customization options ([8744e33](https://github.com/codebridger/lib-vue-components/commit/8744e33cfa50ef2411d34f160b9ce93df3d67072))
-* **InputFileHeadless:** add new props for label, placeholder, icon, and error handling; enhance Storybook stories for improved accessibility and customization options ([31dd92b](https://github.com/codebridger/lib-vue-components/commit/31dd92b3d7a8d120aac1c1dc1928c48fa5dd442d))
-* **InputFileHeadless:** add showControls prop to toggle visibility of control buttons in the component; update Storybook stories accordingly ([007887c](https://github.com/codebridger/lib-vue-components/commit/007887c7d00205ec4929811fbc7f6af67dfaa60c))
-* **progress:** add Progress component with customizable styles and Storybook stories for various use cases ([4c6d8d7](https://github.com/codebridger/lib-vue-components/commit/4c6d8d7b7dfa98e635aaae0e06dc7186225001e4))
-* **static-icons:** add IconCheck component and include it in the StatusAndIndicators export ([b43fa9b](https://github.com/codebridger/lib-vue-components/commit/b43fa9bc76dbe6d7b62fabf37f59ac8aa822e0f9))
-* **SwitchBall:** add SwitchBall component with customizable labels, colors, and icons; include Storybook stories for various use cases ([32239bc](https://github.com/codebridger/lib-vue-components/commit/32239bc3f4e30af2dfc2c8df26c31ea0e832f27f))
+* **dropfile:** add DropFile component for file uploads with drag-and-drop support ([bc4f947](https://github.com/codebridger/pilotui/commit/bc4f9470d5125f05bd5b50ff2f9321e86b6e1a21))
+* **dropfile:** integrate DropFile component into main export and update stories with simplified props ([b0f4537](https://github.com/codebridger/pilotui/commit/b0f453729eaeb3a86326e8114c5c3e5a67a9b6c9))
+* **file-input:** introduce InputFileHeadless component with file selection and preview functionality, along with Storybook stories for various use cases ([9aaf8f4](https://github.com/codebridger/pilotui/commit/9aaf8f47c67f39cca2bf0ab460fc87486ee14c41))
+* **FileInputCombo:** add filesStatus computed property to track file upload progress and status; update upload-area slot to include filesStatus ([b5328c5](https://github.com/codebridger/pilotui/commit/b5328c51b5e07c584908433acd823807202409f5))
+* **FileInputCombo:** introduce FileInputCombo component with drag-and-drop and click-to-upload functionality; includes comprehensive props for customization and Storybook stories for various use cases ([a4e51af](https://github.com/codebridger/pilotui/commit/a4e51afc2b6a6f7380125cdeea66431170e1dbf0))
+* **fullscreen-dropfile:** add FullscreenDropfile component with drag-and-drop functionality and Storybook stories ([2d4aa92](https://github.com/codebridger/pilotui/commit/2d4aa9286e01c4c266d5fd353abbe7238737ca05))
+* **icon:** add new arrow and cloud upload icons ([967ebde](https://github.com/codebridger/pilotui/commit/967ebde3405d005a045327a05b5c8165fe107f81))
+* **input-drag-file:** introduce InputDragFile component with drag-and-drop functionality and Storybook stories ([6f87e2b](https://github.com/codebridger/pilotui/commit/6f87e2bf1df437af2dd92b1059650fda56017b0a))
+* **input-file-drop-mode:** introduce InputFileDropMode component for fullscreen drag-and-drop file uploads; add associated Storybook stories for customization options ([18c7e3b](https://github.com/codebridger/pilotui/commit/18c7e3b4793bc8c1f08ffff4e525c88df45c67f6))
+* **input-file-headless:** enhance InputFileHeadless component with new props for file acceptance, capture, and filtering; update documentation and add new Storybook stories for image preview and file type filtering ([933c3e7](https://github.com/codebridger/pilotui/commit/933c3e75accf4b85b432266d84b3f9166ecfb068))
+* **InputFileDragMode:** add InputFileDragMode component for drag-and-drop file uploads; include Storybook stories for various use cases and customization options ([8744e33](https://github.com/codebridger/pilotui/commit/8744e33cfa50ef2411d34f160b9ce93df3d67072))
+* **InputFileHeadless:** add new props for label, placeholder, icon, and error handling; enhance Storybook stories for improved accessibility and customization options ([31dd92b](https://github.com/codebridger/pilotui/commit/31dd92b3d7a8d120aac1c1dc1928c48fa5dd442d))
+* **InputFileHeadless:** add showControls prop to toggle visibility of control buttons in the component; update Storybook stories accordingly ([007887c](https://github.com/codebridger/pilotui/commit/007887c7d00205ec4929811fbc7f6af67dfaa60c))
+* **progress:** add Progress component with customizable styles and Storybook stories for various use cases ([4c6d8d7](https://github.com/codebridger/pilotui/commit/4c6d8d7b7dfa98e635aaae0e06dc7186225001e4))
+* **static-icons:** add IconCheck component and include it in the StatusAndIndicators export ([b43fa9b](https://github.com/codebridger/pilotui/commit/b43fa9bc76dbe6d7b62fabf37f59ac8aa822e0f9))
+* **SwitchBall:** add SwitchBall component with customizable labels, colors, and icons; include Storybook stories for various use cases ([32239bc](https://github.com/codebridger/pilotui/commit/32239bc3f4e30af2dfc2c8df26c31ea0e832f27f))
 
-# [1.17.0-dev.15](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.14...dev-1.17.0-dev.15) (2025-03-16)
-
-
-### Bug Fixes
-
-* **branding:** Allow dynamic brand logo in DashboardShell and SidebarMenu components ([db70f0a](https://github.com/codebridger/lib-vue-components/commit/db70f0a6c444ccdaf88aa63781fbaa39742949e3))
-
-# [1.17.0-dev.14](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.13...dev-1.17.0-dev.14) (2025-03-14)
+# [1.17.0-dev.15](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.14...dev-1.17.0-dev.15) (2025-03-16)
 
 
 ### Bug Fixes
 
-* **tabs:**  Divide Width Equally Between Objects ([f7c4a7a](https://github.com/codebridger/lib-vue-components/commit/f7c4a7a6f11004e50cab143193dacdc309a0b937))
-* **tabs:** Add source type to tab story for better documentation ([d78210c](https://github.com/codebridger/lib-vue-components/commit/d78210c8058bf48ea73a4633f69c4f027bf6ed23))
-* **tabs:** add tab component and change text tab color ([12040f8](https://github.com/codebridger/lib-vue-components/commit/12040f875d31dc65c8c03bae6f8d4b23b7128ef9))
+* **branding:** Allow dynamic brand logo in DashboardShell and SidebarMenu components ([db70f0a](https://github.com/codebridger/pilotui/commit/db70f0a6c444ccdaf88aa63781fbaa39742949e3))
+
+# [1.17.0-dev.14](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.13...dev-1.17.0-dev.14) (2025-03-14)
+
+
+### Bug Fixes
+
+* **tabs:**  Divide Width Equally Between Objects ([f7c4a7a](https://github.com/codebridger/pilotui/commit/f7c4a7a6f11004e50cab143193dacdc309a0b937))
+* **tabs:** Add source type to tab story for better documentation ([d78210c](https://github.com/codebridger/pilotui/commit/d78210c8058bf48ea73a4633f69c4f027bf6ed23))
+* **tabs:** add tab component and change text tab color ([12040f8](https://github.com/codebridger/pilotui/commit/12040f875d31dc65c8c03bae6f8d4b23b7128ef9))
 
 
 ### Features
 
-* **tabs:** Implementing a Tabs Component ([d4a8578](https://github.com/codebridger/lib-vue-components/commit/d4a85785ddf3216aa7e0a0db16fc356b708eb890))
+* **tabs:** Implementing a Tabs Component ([d4a8578](https://github.com/codebridger/pilotui/commit/d4a85785ddf3216aa7e0a0db16fc356b708eb890))
 
-# [1.15.0](https://github.com/codebridger/lib-vue-components/compare/v1.14.1...v1.15.0) (2025-03-09)
+# [1.15.0](https://github.com/codebridger/pilotui/compare/v1.14.1...v1.15.0) (2025-03-09)
 
 
 ### Bug Fixes
 
-* **button:** add color default to button component ([87f2494](https://github.com/codebridger/lib-vue-components/commit/87f24943b12cf2a8bc0683053dfc71f7d718e3f3))
-* **button:** Checking Cursor on Button component when it has link ([9ff709c](https://github.com/codebridger/lib-vue-components/commit/9ff709c3f14918002820fca20962574851ff9303))
-* **button:** Checking disabled on Button component when it is a tag ([934e3b8](https://github.com/codebridger/lib-vue-components/commit/934e3b8278d07fee2102ff6915f5895fcff20766))
-* **button:** Checking Onclick and disabled for button and a tag ([d5bdcb9](https://github.com/codebridger/lib-vue-components/commit/d5bdcb95ae822d6a213eb175d16316397b96b2ab))
-* **button:** resolve Deprecation Warning darken function ([3be9a7a](https://github.com/codebridger/lib-vue-components/commit/3be9a7a745653148061f84dc1aca357656637764))
-* **button:** resolve Deprecation Warning darken function to color.adjust ([546399a](https://github.com/codebridger/lib-vue-components/commit/546399ae9fd4dcf8ddbcbdd2e3f113e6af8f18bb))
-* **card:** check bg color if it has not bg ([acd11bc](https://github.com/codebridger/lib-vue-components/commit/acd11bcd1ff48ca26c44a334ddfb27e6baa8639d))
-* **iconbutton:** add transition ([93bb8f8](https://github.com/codebridger/lib-vue-components/commit/93bb8f8b46dc65fdf26caffe9bae3859f194092c))
-* **input:** Adding TelInput to input story ([5a2894d](https://github.com/codebridger/lib-vue-components/commit/5a2894d01707064dbea764dc48626ce258b28259))
-* **input:** Checking rtl or ltr for icon in input ([6f859ea](https://github.com/codebridger/lib-vue-components/commit/6f859ea263ac9deebe2036f19fc7a5c6cb7ab7f2))
-* **modal:** add button component ([54c812a](https://github.com/codebridger/lib-vue-components/commit/54c812a64810f6d992cfd8a2d2260016eed46df0))
-* **pagination:** Remove totalItems and itemsPerPage ([b694599](https://github.com/codebridger/lib-vue-components/commit/b6945995e3e9147e6f2db80fafc7b7c275c51755))
+* **button:** add color default to button component ([87f2494](https://github.com/codebridger/pilotui/commit/87f24943b12cf2a8bc0683053dfc71f7d718e3f3))
+* **button:** Checking Cursor on Button component when it has link ([9ff709c](https://github.com/codebridger/pilotui/commit/9ff709c3f14918002820fca20962574851ff9303))
+* **button:** Checking disabled on Button component when it is a tag ([934e3b8](https://github.com/codebridger/pilotui/commit/934e3b8278d07fee2102ff6915f5895fcff20766))
+* **button:** Checking Onclick and disabled for button and a tag ([d5bdcb9](https://github.com/codebridger/pilotui/commit/d5bdcb95ae822d6a213eb175d16316397b96b2ab))
+* **button:** resolve Deprecation Warning darken function ([3be9a7a](https://github.com/codebridger/pilotui/commit/3be9a7a745653148061f84dc1aca357656637764))
+* **button:** resolve Deprecation Warning darken function to color.adjust ([546399a](https://github.com/codebridger/pilotui/commit/546399ae9fd4dcf8ddbcbdd2e3f113e6af8f18bb))
+* **card:** check bg color if it has not bg ([acd11bc](https://github.com/codebridger/pilotui/commit/acd11bcd1ff48ca26c44a334ddfb27e6baa8639d))
+* **iconbutton:** add transition ([93bb8f8](https://github.com/codebridger/pilotui/commit/93bb8f8b46dc65fdf26caffe9bae3859f194092c))
+* **input:** Adding TelInput to input story ([5a2894d](https://github.com/codebridger/pilotui/commit/5a2894d01707064dbea764dc48626ce258b28259))
+* **input:** Checking rtl or ltr for icon in input ([6f859ea](https://github.com/codebridger/pilotui/commit/6f859ea263ac9deebe2036f19fc7a5c6cb7ab7f2))
+* **modal:** add button component ([54c812a](https://github.com/codebridger/pilotui/commit/54c812a64810f6d992cfd8a2d2260016eed46df0))
+* **pagination:** Remove totalItems and itemsPerPage ([b694599](https://github.com/codebridger/pilotui/commit/b6945995e3e9147e6f2db80fafc7b7c275c51755))
 
 
 ### Features
 
-* add right arrow icon and update left arrow icon SVG structure ([c26147b](https://github.com/codebridger/lib-vue-components/commit/c26147b71bf4770a277ed3684e7e184890bf06eb))
-* **button:** add icon option to input component ([be9af0a](https://github.com/codebridger/lib-vue-components/commit/be9af0af83dc4465d8038f412bb45f52225647f7))
-* **pagination:** Implementing a Pagination Component ([b182fbe](https://github.com/codebridger/lib-vue-components/commit/b182fbeddc0da716cd7fb2ca3eb75bc2b16e864e))
-* **textarea:** add label option to textarea component ([ae84fab](https://github.com/codebridger/lib-vue-components/commit/ae84fab83a18a82b8dc1f93406c34ddd7edc0737))
+* add right arrow icon and update left arrow icon SVG structure ([c26147b](https://github.com/codebridger/pilotui/commit/c26147b71bf4770a277ed3684e7e184890bf06eb))
+* **button:** add icon option to input component ([be9af0a](https://github.com/codebridger/pilotui/commit/be9af0af83dc4465d8038f412bb45f52225647f7))
+* **pagination:** Implementing a Pagination Component ([b182fbe](https://github.com/codebridger/pilotui/commit/b182fbeddc0da716cd7fb2ca3eb75bc2b16e864e))
+* **textarea:** add label option to textarea component ([ae84fab](https://github.com/codebridger/pilotui/commit/ae84fab83a18a82b8dc1f93406c34ddd7edc0737))
 
-# [1.17.0-dev.13](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.12...dev-1.17.0-dev.13) (2025-03-09)
+# [1.17.0-dev.13](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.12...dev-1.17.0-dev.13) (2025-03-09)
 
 ### Bug Fixes
 
-* **button:** add color default to button component ([87f2494](https://github.com/codebridger/lib-vue-components/commit/87f24943b12cf2a8bc0683053dfc71f7d718e3f3))
-* **card:** check bg color if it has not bg ([acd11bc](https://github.com/codebridger/lib-vue-components/commit/acd11bcd1ff48ca26c44a334ddfb27e6baa8639d))
-* **iconbutton:** add transition ([93bb8f8](https://github.com/codebridger/lib-vue-components/commit/93bb8f8b46dc65fdf26caffe9bae3859f194092c))
-* **modal:** add button component ([54c812a](https://github.com/codebridger/lib-vue-components/commit/54c812a64810f6d992cfd8a2d2260016eed46df0))
-* **pagination:** Remove totalItems and itemsPerPage ([b694599](https://github.com/codebridger/lib-vue-components/commit/b6945995e3e9147e6f2db80fafc7b7c275c51755))
+* **button:** add color default to button component ([87f2494](https://github.com/codebridger/pilotui/commit/87f24943b12cf2a8bc0683053dfc71f7d718e3f3))
+* **card:** check bg color if it has not bg ([acd11bc](https://github.com/codebridger/pilotui/commit/acd11bcd1ff48ca26c44a334ddfb27e6baa8639d))
+* **iconbutton:** add transition ([93bb8f8](https://github.com/codebridger/pilotui/commit/93bb8f8b46dc65fdf26caffe9bae3859f194092c))
+* **modal:** add button component ([54c812a](https://github.com/codebridger/pilotui/commit/54c812a64810f6d992cfd8a2d2260016eed46df0))
+* **pagination:** Remove totalItems and itemsPerPage ([b694599](https://github.com/codebridger/pilotui/commit/b6945995e3e9147e6f2db80fafc7b7c275c51755))
 
 
 ### Features
 
-* **pagination:** Implementing a Pagination Component ([b182fbe](https://github.com/codebridger/lib-vue-components/commit/b182fbeddc0da716cd7fb2ca3eb75bc2b16e864e))
+* **pagination:** Implementing a Pagination Component ([b182fbe](https://github.com/codebridger/pilotui/commit/b182fbeddc0da716cd7fb2ca3eb75bc2b16e864e))
 
-# [1.17.0-dev.12](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.11...dev-1.17.0-dev.12) (2025-03-03)
+# [1.17.0-dev.12](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.11...dev-1.17.0-dev.12) (2025-03-03)
 
 
 ### Bug Fixes
 
-* **input:** Adding TelInput to input story ([5a2894d](https://github.com/codebridger/lib-vue-components/commit/5a2894d01707064dbea764dc48626ce258b28259))
-* **input:** Checking rtl or ltr for icon in input ([6f859ea](https://github.com/codebridger/lib-vue-components/commit/6f859ea263ac9deebe2036f19fc7a5c6cb7ab7f2))
+* **input:** Adding TelInput to input story ([5a2894d](https://github.com/codebridger/pilotui/commit/5a2894d01707064dbea764dc48626ce258b28259))
+* **input:** Checking rtl or ltr for icon in input ([6f859ea](https://github.com/codebridger/pilotui/commit/6f859ea263ac9deebe2036f19fc7a5c6cb7ab7f2))
 
 
 ### Features
 
-* **button:** add icon option to input component ([be9af0a](https://github.com/codebridger/lib-vue-components/commit/be9af0af83dc4465d8038f412bb45f52225647f7))
-* **textarea:** add label option to textarea component ([ae84fab](https://github.com/codebridger/lib-vue-components/commit/ae84fab83a18a82b8dc1f93406c34ddd7edc0737))
+* **button:** add icon option to input component ([be9af0a](https://github.com/codebridger/pilotui/commit/be9af0af83dc4465d8038f412bb45f52225647f7))
+* **textarea:** add label option to textarea component ([ae84fab](https://github.com/codebridger/pilotui/commit/ae84fab83a18a82b8dc1f93406c34ddd7edc0737))
 
-# [1.17.0-dev.11](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.10...dev-1.17.0-dev.11) (2025-03-03)
+# [1.17.0-dev.11](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.10...dev-1.17.0-dev.11) (2025-03-03)
 
 
 ### Bug Fixes
 
-* **button:** Checking Cursor on Button component when it has link ([9ff709c](https://github.com/codebridger/lib-vue-components/commit/9ff709c3f14918002820fca20962574851ff9303))
-* **button:** Checking disabled on Button component when it is a tag ([934e3b8](https://github.com/codebridger/lib-vue-components/commit/934e3b8278d07fee2102ff6915f5895fcff20766))
-* **button:** Checking Onclick and disabled for button and a tag ([d5bdcb9](https://github.com/codebridger/lib-vue-components/commit/d5bdcb95ae822d6a213eb175d16316397b96b2ab))
-* **button:** resolve Deprecation Warning darken function ([3be9a7a](https://github.com/codebridger/lib-vue-components/commit/3be9a7a745653148061f84dc1aca357656637764))
-* **button:** resolve Deprecation Warning darken function to color.adjust ([546399a](https://github.com/codebridger/lib-vue-components/commit/546399ae9fd4dcf8ddbcbdd2e3f113e6af8f18bb))
+* **button:** Checking Cursor on Button component when it has link ([9ff709c](https://github.com/codebridger/pilotui/commit/9ff709c3f14918002820fca20962574851ff9303))
+* **button:** Checking disabled on Button component when it is a tag ([934e3b8](https://github.com/codebridger/pilotui/commit/934e3b8278d07fee2102ff6915f5895fcff20766))
+* **button:** Checking Onclick and disabled for button and a tag ([d5bdcb9](https://github.com/codebridger/pilotui/commit/d5bdcb95ae822d6a213eb175d16316397b96b2ab))
+* **button:** resolve Deprecation Warning darken function ([3be9a7a](https://github.com/codebridger/pilotui/commit/3be9a7a745653148061f84dc1aca357656637764))
+* **button:** resolve Deprecation Warning darken function to color.adjust ([546399a](https://github.com/codebridger/pilotui/commit/546399ae9fd4dcf8ddbcbdd2e3f113e6af8f18bb))
 
-# [1.17.0-dev.10](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.9...dev-1.17.0-dev.10) (2025-03-02)
+# [1.17.0-dev.10](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.9...dev-1.17.0-dev.10) (2025-03-02)
 
 
 ### Features
 
-* add right arrow icon and update left arrow icon SVG structure ([c26147b](https://github.com/codebridger/lib-vue-components/commit/c26147b71bf4770a277ed3684e7e184890bf06eb))
+* add right arrow icon and update left arrow icon SVG structure ([c26147b](https://github.com/codebridger/pilotui/commit/c26147b71bf4770a277ed3684e7e184890bf06eb))
 
-# [1.17.0-dev.9](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.8...dev-1.17.0-dev.9) (2025-03-01
-
-
-### Bug Fixes
-
-* update package name references from [@tiny-ideas-ir](https://github.com/tiny-ideas-ir) to [@codebridger](https://github.com/codebridger) ([57f6178](https://github.com/codebridger/lib-vue-components/commit/57f6178bf7bb8a3853b13a6ce64223c1c545d6ed))
-
-# [1.17.0-dev.8](https://github.com/codebridger/lib-vue-components/compare/dev-1.17.0-dev.7...dev-1.17.0-dev.8) (2025-03-01)
+# [1.17.0-dev.9](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.8...dev-1.17.0-dev.9) (2025-03-01
 
 
 ### Bug Fixes
 
-* **Button:** publish previous changes ([aad26e9](https://github.com/codebridger/lib-vue-components/commit/aad26e9de0fd01865dbee2d00aa448635358c7b9))
+* update package name references from [@tiny-ideas-ir](https://github.com/tiny-ideas-ir) to [@codebridger](https://github.com/codebridger) ([57f6178](https://github.com/codebridger/pilotui/commit/57f6178bf7bb8a3853b13a6ce64223c1c545d6ed))
+
+# [1.17.0-dev.8](https://github.com/codebridger/pilotui/compare/dev-1.17.0-dev.7...dev-1.17.0-dev.8) (2025-03-01)
+
+
+### Bug Fixes
+
+* **Button:** publish previous changes ([aad26e9](https://github.com/codebridger/pilotui/commit/aad26e9de0fd01865dbee2d00aa448635358c7b9))
 
 # [1.17.0-dev.7](https://github.com/tiny-ideas-ir/lib-vue-components/compare/dev-1.17.0-dev.6...dev-1.17.0-dev.7) (2025-02-04)
 
