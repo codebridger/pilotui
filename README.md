@@ -5,7 +5,7 @@
 PilotUI is a comprehensive Vue 3 + TypeScript component library featuring **50+ UI components**, custom shell layouts, a robust icon system, and specialized utilities. Built with **Tailwind CSS**, it's designed to provide consistent aesthetics and premium developer experience.
 
 [![Version](https://img.shields.io/npm/v/pilotui?color=blue&style=flat-square)](https://www.npmjs.com/package/pilotui)
-[![License](https://img.shields.io/npm/l/pilotui?color=green&style=flat-square)](https://github.com/codebridger/lib-vue-components/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/pilotui?color=green&style=flat-square)](https://github.com/codebridger/pilotui/blob/main/LICENSE)
 [![Vue](https://img.shields.io/badge/Vue-3.x-brightgreen?style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 
