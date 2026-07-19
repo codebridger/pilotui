@@ -1,6 +1,6 @@
 # CustomModal.vue
 <template>
-  <div>
+  <div v-if="$slots.trigger || triggerLabel">
     <slot name="trigger" :toggleModal="toggleModal">
       <Button @click="isShowing = true">{{ props.triggerLabel }}</Button>
     </slot>
@@ -62,7 +62,7 @@
                 v-if="!hideClose"
                 iconName="IconX"
                 size="sm"
-                class="absolute top-2 text-gray-400 outline-none hover:text-gray-800 ltr:right-4 rtl:left-4 dark:hover:text-gray-600 border-none"
+                class="absolute top-2 ltr:right-4 rtl:left-4 z-10 border-none outline-none !shadow-none text-gray-400 hover:text-gray-800 dark:text-gray-500 dark:hover:text-gray-200 !bg-transparent hover:!bg-black/5 dark:hover:!bg-white/10 focus:!bg-transparent dark:focus:!bg-white/10 focus:!ring-0 focus:!ring-offset-0"
                 @click="closeModal"
               />
 
