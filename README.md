@@ -13,8 +13,8 @@ PilotUI is a comprehensive Vue 3 + TypeScript component library featuring **50+ 
 
 ## 🔗 Quick Links
 
-- 📖 **Live Documentation**: [Storybook Showcase](https://codebridger.github.io/lib-vue-components/)
-- 🤖 **AI-Ready Docs**: [llm.md](https://codebridger.github.io/lib-vue-components/llm.md) *(Optimized for Claude, Gemini, ChatGPT)*
+- 📖 **Live Documentation**: [Storybook Showcase](https://codebridger.github.io/pilotui/)
+- 🤖 **AI-Ready Docs**: [llm.md](https://codebridger.github.io/pilotui/llm.md) *(Optimized for Claude, Gemini, ChatGPT)*
 - 📦 **NPM Package**: [`pilotui`](https://www.npmjs.com/package/pilotui)
 
 ---
@@ -91,7 +91,7 @@ import { AppRoot, Button } from 'pilotui'
 ## 🤖 AI-Native Documentation
 
 PilotUI includes a specialized `llm.md` file designed specifically for Large Language Models. If you are using an AI assistant (like Cursor or GitHub Copilot) to build your app, point it to:
-👉 [**https://codebridger.github.io/lib-vue-components/llm.md**](https://codebridger.github.io/lib-vue-components/llm.md)
+👉 [**https://codebridger.github.io/pilotui/llm.md**](https://codebridger.github.io/pilotui/llm.md)
 
 This file contains flat, metadata-rich descriptions of every component, property, and slot, enabling AI to generate accurate PilotUI code for you instantly.
 
